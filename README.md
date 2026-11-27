@@ -1,4 +1,4 @@
-# LLM Cost Router
+# LLM Cost Router V1
 
 A lightweight TypeScript starter for selecting a language model by task complexity, latency target, and budget.
 
